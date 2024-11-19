@@ -1,0 +1,23 @@
+C:\Users\user\Desktop\Laz\Работа на платформе WPF\bin\Debug\Работа на платформе WPF.exe.config
+C:\Users\user\Desktop\Laz\Работа на платформе WPF\bin\Debug\Работа на платформе WPF.exe
+C:\Users\user\Desktop\Laz\Работа на платформе WPF\bin\Debug\Работа на платформе WPF.pdb
+C:\Users\user\Desktop\Laz\Работа на платформе WPF\obj\Debug\Работа на платформе WPF.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Laz\Работа на платформе WPF\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Laz\Работа на платформе WPF\obj\Debug\Task1Window.g.cs
+C:\Users\user\Desktop\Laz\Работа на платформе WPF\obj\Debug\Task2Window.g.cs
+C:\Users\user\Desktop\Laz\Работа на платформе WPF\obj\Debug\Task3Window.g.cs
+C:\Users\user\Desktop\Laz\Работа на платформе WPF\obj\Debug\Task4Window.g.cs
+C:\Users\user\Desktop\Laz\Работа на платформе WPF\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Laz\Работа на платформе WPF\obj\Debug\Работа на платформе WPF_MarkupCompile.cache
+C:\Users\user\Desktop\Laz\Работа на платформе WPF\obj\Debug\Работа на платформе WPF_MarkupCompile.lref
+C:\Users\user\Desktop\Laz\Работа на платформе WPF\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Laz\Работа на платформе WPF\obj\Debug\Task1Window.baml
+C:\Users\user\Desktop\Laz\Работа на платформе WPF\obj\Debug\Task2Window.baml
+C:\Users\user\Desktop\Laz\Работа на платформе WPF\obj\Debug\Task3Window.baml
+C:\Users\user\Desktop\Laz\Работа на платформе WPF\obj\Debug\Task4Window.baml
+C:\Users\user\Desktop\Laz\Работа на платформе WPF\obj\Debug\Работа на платформе WPF.g.resources
+C:\Users\user\Desktop\Laz\Работа на платформе WPF\obj\Debug\Работа_на_платформе_WPF.Properties.Resources.resources
+C:\Users\user\Desktop\Laz\Работа на платформе WPF\obj\Debug\Работа на платформе WPF.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Laz\Работа на платформе WPF\obj\Debug\Работа на платформе WPF.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Laz\Работа на платформе WPF\obj\Debug\Работа на платформе WPF.exe
+C:\Users\user\Desktop\Laz\Работа на платформе WPF\obj\Debug\Работа на платформе WPF.pdb
